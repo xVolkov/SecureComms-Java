@@ -21,23 +21,23 @@ This repository contains a secure, multi-threaded chat application that ensures 
 * __user_credentials.txt:__ Contains sample user credentials stored as hashed values.
 
 ### Setup and Installation
-#### 1. Clone the repository
+1. Clone the repository
 ```sh 
 git clone https://github.com/yourusername/secure-chatapp.git
 cd secure-chatapp
 ```
 
-#### 2. Compile the source code
+2. Compile the source code
 ```sh
 javac ChatClient.java ChatServer.java HashUtil.java
 ```
 
-#### 3. Run the server
+3. Run the server
 ```sh
 java ChatServer
 ```
 
-#### 4. Run the client
+4. Run the client
 ```sh
 java ChatClient
 ```
