@@ -56,4 +56,4 @@ java ChatClient
 Contributions are welcome! Please submit a pull request or open an issue to discuss what you would like to change.
 
 ### License
-This project is licensed under the GPLv3 Licence.
+This project is licensed under the GPLv3 License - see the LICENSE file for details.
