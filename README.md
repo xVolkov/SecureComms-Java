@@ -1,4 +1,4 @@
-# SecurusChat - A Secure Multi-Threaded Fully Encrypted ChatApp
+# SecurusChat - A Secure Multi-Threaded Fully Encrypted ChatApp (Java)
 
 ### Overview
 This repository contains a secure, multi-threaded chat application that ensures all communications between clients are encrypted. User passwords are securely hashed before storage, ensuring the highest level of security and privacy.
