@@ -1,12 +1,12 @@
-# Secure Multi-Threaded ChatApp
+# SecurusChat - A Secure Multi-Threaded Fully Encrypted ChatApp
 
 ### Overview
 This repository contains a secure, multi-threaded chat application that ensures all communications between clients are encrypted. User passwords are securely hashed before storage, ensuring the highest level of security and privacy.
 
 ### Features
-* __Secure Communication:__ All messages between clients are encrypted.
+* __Secure Communication:__ All messages between clients and server are encrypted using AES-128.
 * __Multi-Threaded Server:__ Handles multiple clients concurrently.
-* __Hashed Passwords:__ Uses secure hashing for storing user passwords.
+* __Hashed Passwords:__ Uses SHA-256 for storing user passwords.
 * __User Registration and Login:__ Allows new users to register and existing users to log in.
 * __Broadcast Messaging:__ Sends messages from one client to all other connected clients.
 * __Private Messaging:__ Allows clients to send private messages to specific users.
